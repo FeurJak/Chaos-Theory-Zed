@@ -1,0 +1,19 @@
+id = "chaos-theory-theme"
+name = "Chaos-Theory Theme"
+version = "0.0.2"
+schema_version = 1
+description = "Zed Theme with Chaos-Theory colour palette"
+repository = "https://github.com/FeurJak/Chaos-Theory-Zed"
+authors = ["Taras Woronjanski <tarasworonjanski@gmail.com>"]
+themes = ["themes/chaos-theory-theme.json"]
+languages = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[slash_commands]
+
+[indexed_docs_providers]
